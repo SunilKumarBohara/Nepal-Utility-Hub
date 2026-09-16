@@ -1,0 +1,6 @@
+{
+  "name": "Nepal Utility Hub",
+  "description": "Everyday utilities, financial calculators, student tools, converters, and Nepal daily information dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

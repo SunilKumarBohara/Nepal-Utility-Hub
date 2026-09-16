@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mountain Peaks Background Silhouette in White/Alpha -->
+    <path
+        android:fillColor="#40FFFFFF"
+        android:pathData="M32,68 L48,46 L60,60 L76,40 L90,68 Z" />
+    <path
+        android:fillColor="#E0FFFFFF"
+        android:pathData="M24,74 L44,48 L56,62 L72,42 L84,74 Z" />
+    
+    <!-- Central Utility Badge: Rounded Card / Calculator Grid -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,36 h32 a4,4 0 0,1 4,4 v32 a4,4 0 0,1 -4,4 h-32 a4,4 0 0,1 -4,-4 v-32 a4,4 0 0,1 4,-4 z" />
+    
+    <!-- Red Accent Top Bar (Nepal Crimson) -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M38,36 h32 a4,4 0 0,1 4,4 v6 h-40 v-6 a4,4 0 0,1 4,-4 z" />
+    
+    <!-- Calculator / Utility Display Screen -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M40,50 h28 v4 h-28 z" />
+        
+    <!-- Calculator Grid Keys -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M40,58 h6 v5 h-6 z M51,58 h6 v5 h-6 z M62,58 h6 v5 h-6 z M40,66 h6 v5 h-6 z M51,66 h6 v5 h-6 z" />
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M62,66 h6 v5 h-6 z" />
+        
+    <!-- Subtle Sun / Star emblem at top right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,28 L80,24 L82,28 L86,30 L82,32 L80,36 L78,32 L74,30 Z" />
+</vector>
